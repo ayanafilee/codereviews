@@ -2,7 +2,7 @@ import math
 
 def is_prime(n: int) -> bool:
     """
-    Determine if a positive integer is a prime number.
+    Determines if a positive integer is a prime number.
     
     Args:
         n (int): The integer to check for primality.

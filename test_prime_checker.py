@@ -7,6 +7,7 @@ def test_is_prime():
     assert not is_prime(0)   # Zero
     assert not is_prime(1)   # 1 is not prime
     assert not is_prime(4)   # Small even composite
+    assert not is_prime(25)  # 5*5 composite
     assert not is_prime(9)   # Composite square of prime (3*3)
     assert not is_prime(15)  # Odd composite
     
