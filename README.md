@@ -40,3 +40,51 @@ Default credentials:
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/todo-app.git
+
+Navigate to project directory:
+
+bash
+Copy
+cd todo-app
+Open index.html in your browser
+
+Tech Stack 💻
+Frontend: HTML5, CSS3, JavaScript
+
+Storage: Browser LocalStorage
+
+Icons: Font Awesome
+
+Styling: Modern CSS gradients and animations
+
+Usage Guide 📖
+Register a new account or use default credentials
+
+Add tasks using the input field
+
+Click trash icon to delete tasks
+
+Logout using the top-right button
+
+Contributing 🤝
+We welcome contributions! Please follow these steps:
+
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+License 📄
+Distributed under the MIT License. See LICENSE for more information.
+
+Acknowledgements 🎓
+Font Awesome for icons
+
+Modern CSS techniques
+
+MDN Web Docs for JavaScript references
